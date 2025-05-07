@@ -1,7 +1,7 @@
 import { HeroSection } from "../HeroSection";
 
 import React from 'react'
-import { MySkills } from "../MySkills";
+import MySkills from "../MySkills";
 import { AboutMe } from "../aboutMe";
 import { MyPortfolio } from "../MyPortfolio";
 import Testimonial from "../Testimonials";

@@ -5,8 +5,8 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-      <div className='logo text-center fw-bold fs-1 fs-md-3 fs-sm-4 text-uppercase letter-spacing'>
-            <span>Portfolio</span>
+      <div className='logo'>
+      <span style={{color:'#4adede'}}>Port</span><span style={{color:'#7be495'}}>Folio</span>
         </div>
         <div className="footer--items">
           <ul>
