@@ -4,7 +4,7 @@ export const AboutMe = () => {
   return (
     <section id="aboutme" className="about--section">
         <div className="about--section--img">
-            <img src="./img/hero_img.jpg" alt="About Me" />
+            <img src="./img/about_me.png" alt="About Me" />
         </div>
         <div className="hero--section--content--box about--section--box">
             <div className="hero--section--content">
