@@ -5,7 +5,7 @@ import { MySkills } from "../MySkills";
 import { AboutMe } from "../aboutMe";
 import { MyPortfolio } from "../MyPortfolio";
 import Testimonial from "../Testimonials";
-import ContactMe from "../ContactMe";
+import ContactMe from "../Contactme";
 import Footer from "../Footer";
 
 export const Home = () => {
